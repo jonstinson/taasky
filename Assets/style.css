@@ -1,0 +1,64 @@
+body {
+	background-image: url("background.jpg");
+	background-repeat: no-repeat;
+	width: 1374px;
+	height: 761px;
+	margin: 0px;
+	padding: 0px;
+
+}
+
+hr {
+	width: 30px;
+	float: left;
+	margin: 0px;
+	color: #FF5F6D;
+	background-color: #FF5F6D;
+	border-color: #FF5F6D;
+
+
+}
+
+p {
+	font-family: arial, helvetica, sans-serif;
+	margin-top: 25px;
+	margin-right: 0px;
+	margin-bottom: 25px;
+	margin-left: 0px;
+	color: white;
+}
+
+a {
+
+
+}
+
+#header {
+	background-image: url("stripes.png");
+	background-repeat: repeat-x;
+	height: 13px;
+	margin-bottom: 100px;
+}
+
+
+#rainbow {
+	margin: 0px;
+	padding: 0px;
+
+}
+#content_area {
+	float: left;
+	margin-top: 100px;
+	margin-right: 150px;
+	margin-bottom: 150px;
+	margin-left: 150px;
+
+}
+
+#logo {
+	margin-top: 25px;
+	margin-right:0px;
+	margin-bottom: 25px;
+	margin-left: 0px;
+
+}
